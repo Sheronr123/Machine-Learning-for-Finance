@@ -52,12 +52,6 @@ This repository contains multiple Jupyter notebooks covering various stock marke
 
 - pip install numpy pandas scikit-learn matplotlib seaborn tensorflow
 
-### ▶ Running the Notebooks
-
-### Clone the repository:
-
-- git clone https://github.com/yourusername/your-repo.git
-
 ### Navigate to the directory:
 
 cd your-repo
